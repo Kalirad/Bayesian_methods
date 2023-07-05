@@ -1,7 +1,7 @@
 # Bayesian_methods
 A repository of Bayesian models written using PyMC.
 
-## Methods folder contains:
+## ```methods''' folder contains:
 
 - BEST_two_group.ipynb: a notebook which demonstrates the structure and usage of Kruschke's BEST method, as a substitute for the t-test.
 
